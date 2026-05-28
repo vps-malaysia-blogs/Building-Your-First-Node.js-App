@@ -1,8 +1,8 @@
 # Beyond Local Scripts: Deploying a Node.js Expense Tracker API on Premium Node.js Hosting
 
-Managing personal finance requires precision, security, and instantaneous accessibility. While a spreadsheet or a local terminal utility works fine for basic budgeting, a true data-driven financial workflow demands a robust backend. Building a RESTful **[Node.js Expense Tracker API]([url](https://medium.com/@digpatel1710/building-an-expense-tracker-app-with-node-js-express-and-mongodb-5afa9f17b86c))** allows you to programmatically log expenses, categorize transactions, and generate real-time financial health reports from any connected application or webhook.
+Managing personal finance requires precision, security, and instantaneous accessibility. While a spreadsheet or a local terminal utility works fine for basic budgeting, a true data-driven financial workflow demands a robust backend. Building a RESTful **[Node.js Expense Tracker API](https://medium.com/@digpatel1710/building-an-expense-tracker-app-with-node-js-express-and-mongodb-5afa9f17b86c)** allows you to programmatically log expenses, categorize transactions, and generate real-time financial health reports from any connected application or webhook.
 
-However, a financial API is only as functional as its availability. To ensure your financial ledger is securely accessible 24/7 without delays or data corruption, deploying your application on an optimized **[node.js hosting]([url](https://www.vpsmalaysia.com.my/nodejs-hosting/))** infrastructure is paramount. 
+However, a financial API is only as functional as its availability. To ensure your financial ledger is securely accessible 24/7 without delays or data corruption, deploying your application on an optimized **[node.js hosting](https://www.vpsmalaysia.com.my/nodejs-hosting/)** infrastructure is paramount. 
 
 Below is an architectural blueprint for building your financial API and the key hosting parameters required to keep your data safe and highly performant.
 
