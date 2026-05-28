@@ -1,8 +1,8 @@
 # Beyond the Browser: Build a Node.js CLI Task Tracker and Choose the Right Node.js Hosting
 
-Managing a daily to-do list doesn't require a bloated browser app or a heavy desktop interface. For developers, sysadmins, and power users, the command line is the ultimate workspace. Building a lightweight, custom [Command Line Interface (CLI)]([url](https://aws.amazon.com/what-is/cli/)) task tracker in Node.js is an excellent way to streamline your daily workflow and master terminal-based automation.
+Managing a daily to-do list doesn't require a bloated browser app or a heavy desktop interface. For developers, sysadmins, and power users, the command line is the ultimate workspace. Building a lightweight, custom [Command Line Interface (CLI)](https://aws.amazon.com/what-is/cli/) task tracker in Node.js is an excellent way to streamline your daily workflow and master terminal-based automation.
 
-However, a tool is only as reliable as the environment it runs on. Once you start expanding a local CLI tool into a shared team utility or a synced web service, deploying your backend onto a robust, high-performance **[node.js hosting]([url](https://www.vpsmalaysia.com.my/nodejs-hosting/))** environment becomes critical to ensure uptime and seamless sync capabilities.
+However, a tool is only as reliable as the environment it runs on. Once you start expanding a local CLI tool into a shared team utility or a synced web service, deploying your backend onto a robust, high-performance **[node.js hosting](https://www.vpsmalaysia.com.my/nodejs-hosting/)** environment becomes critical to ensure uptime and seamless sync capabilities.
 
 Here is how to build a highly efficient terminal task manager and why your hosting strategy matters for the next phase of your development.
 
